@@ -1,0 +1,74 @@
+COD,NOMBRE,MODELO,PRECIO,FECHA_LANZAMIENTO
+f8f7ae42-7f2d-4e8d-8c8c-2f6c4c7d0c9b,Iron Man Edition,MARVEL,19.99,2023-10-15
+e1de7b18-6b1d-4a05-9f0c-8c1c4a7e0f9a,Captain America Shield,MARVEL,29.99,2023-11-21
+a5bc2d73-4e9a-4c8b-9a1d-7b3f5a8d2c1e,Disney Princess Castle,DISNEY,39.99,2024-02-14
+b2a9c4e8-1d2c-4b9a-8c7a-3d6f5c9a2b1c,Mickey Mouse Plush,DISNEY,9.99,2024-03-05
+c3d6e5f7-8a2b-4c9d-1e2a-5b7c4d9f2a1e,Naruto Uzumaki Figure,ANIME,24.99,2023-09-30
+d4e5f6a7-2b3c-1d9e-4a5b-8c2a7d9f1c8,Dragon Ball Z Goku Statue,ANIME,34.99,2023-12-25
+e5f6a7b8-3c4d-2e9f-5a6b-9c2d8f1a7c,LeBron James Action Figure,DEPORTE,19.99,2023-07-11
+f6a7b8c9-4d5e-3f9a-6b7c-1d8e2f7a9c,Simone Biles Collectible,DEPORTE,14.99,2023-08-29
+g7b8c9d1-5e6f-4a9b-7c8d-2e1f9a3b6c,Taylor Swift Pop Star, MUSICA,27.99,2023-05-18
+h8c9d1e2-6f7a-5b9c-8d1e-3f2a9b4c7d,Beyoncé Queen Figure,MUSICA,32.99,2023-06-30
+i9d1e2f3-7a8b-6c9d-1e2f-4a7b8c2d5e,Transformer Robot Toy,OTROS,22.99,2024-01-10
+j1e2f3a4-8b9c-7d1e-2f3a-5b6c7d9e1,Space Alien Creature,OTROS,16.99,2024-04-02
+k2f3a4b5-9c6d-8e1f-3a4b-7c9d1e2f,Black Panther Statue,MARVEL,39.99,2023-04-15
+l3a4b5c6-1d2e-9f3a-4b5c-8d1e2f7a,Toy Story Woody Figure,DISNEY,17.99,2024-05-20
+m4b5c6d7-2e3f-1a4b-5c6d-9e1f2a7b,Hello Kitty Plush,DISNEY,12.99,2024-06-08
+n5c6d7e8-3f4a-2b5c-6d7e-1f2a9b3c,One Piece Luffy Figure,ANIME,29.99,2023-02-28
+d7e8f9-4a5b-3c6d-7e8f-2a9b4c1d,Sailor Moon Crystal Statue,ANIME,37.99,2023-03-12
+p7e8f9a1-5b6c-4d7e-8f9a-3b6c1d2e,Michael Jordan Collectible,DEPORTE,24.99,2023-01-17
+q8f9a1b2-6c7d-5e8f-1a2b-7c9d3e4f,Usain Bolt Sprinter Figure,DEPORTE,18.99,2023-02-10
+r9a1b2c3-7d8e-6f1a-2b3c-9d1e4f5a,Lady Gaga Singer Doll,MUSICA,29.99,2023-11-05
+s1b2c3d4-8e9f-7a1b-3c4d-1e5f6a7b,Elton John Piano Player,MUSICA,34.99,2023-12-19
+t2c3d4e5-9f1a-8b2c-4d5e-6f7a8b9c,Transformer Optimus Prime,OTROS,49.99,2023-09-22
+u3d4e5f6-1a2b-9c3d-4e5f-7a8b1c2d,Godzilla Monster Figure,OTROS,44.99,2023-10-08
+v4e5f6a7-2b3c-1d4e-5f6a-8b9c1d2e,Avengers Hulk Smash,MARVEL,42.99,2023-06-15
+w5f6a7b8-3c4d-2e5f-6a7b-9c1d2e3f,Disney Frozen Elsa Doll,DISNEY,19.99,2024-07-29
+x6a7b8c9-4d5e-3f6a-7b8c-1d2e3f4a,Minnie Mouse Plush,DISNEY,11.99,2024-08-14
+y7b8c9d1-5e6f-4a7b-8c9d-2e3f4a5b,Pikachu Pokemon Figure,ANIME,21.99,2023-08-01
+z8c9d1e2-6f7a-5b8c-9d1e-3f4a5b6c,Sailor Moon Tsukino Doll,ANIME,31.99,2023-09-17
+aa9d1e2f3-7a8b-6c9d-1e2f-5a6b7c8d,LeBron James Slam Dunk,DEPORTE,27.99,2023-04-30
+bb1e2f3a4-8b9c-7d1e-2f3a-6b7c8d9e,Usain Bolt Victory Pose,DEPORTE,23.99,2023-05-25
+cc2f3a4b5-9c6d-8e2f-4a5b-7c8d9e1f,Shakira Dancing Queen,MUSICA,36.99,2023-02-13
+dd3a4b5c6-1d2e-9f4a-5b6c-8d9e1f2a,Taylor Swift Guitarist,MUSICA,39.99,2023-03-28
+ee4b5c6d7-2e3f-1a5b-6c7d-9e1f2a3b,Transformer Bumblebee,OTROS,26.99,2024-09-05
+ff5c6d7e8-3f4a-2b6c-7d8e-1f2a3b4c,Robot Dog Companion,OTROS,14.99,2024-10-19
+gg6d7e8f9-4a5b-3c7d-8e9f-2a3b4c5d,Black Widow Action Figure,MARVEL,29.99,2023-01-10
+hh7e8f9a1-5b6c-4d8e-9f1a-3b4c5d6e,Spiderman Web Swinging,MARVEL,32.99,2023-02-22
+ii8f9a1b2-6c7d-5e9f-1a2b-4c5d6e7f,Iron Man Flying Pose,MARVEL,26.99,2023-03-17
+jj9a1b2c3-7d8e-6f2a-3b4c-5d6e7f8a,Moana Adventure Figure,DISNEY,21.99,2024-11-11
+kk1b2c3d4-8e9f-7a3b-4c5d-6e7f8a9b,Toy Story Buzz Lightyear,DISNEY,33.99,2024-12-02
+ll2c3d4e5-9f1a-8b3c-5d6e-7f8a9b1c,Mickey Mouse Clubhouse,ANIME,19.99,2023-07-05
+mm3d4e5f6-1a2b-9c5d-6e7f-8a9b1c2d,Pokemon Pikachu Plush,ANIME,12.99,2023-08-14
+nn4e5f6a7-2b3c-1d6e-7f8a-9b1c2d3e,Naruto Shippuden Figure,DEPORTE,29.99,2023-11-29
+oo5f6a7b8-3c4d-2e7f-8a9b-1c2d3e4f,LeBron James Lakers Jersey,DEPORTE,44.99,2023-12-30
+pp6a7b8c9-4d5e-3f8a-9b1c-2d3e4f5a,Michael Phelps Swimmer, MUSICA,28.99,2023-10-01
+qq7b8c9d1-5e6f-4a9b-1c2d-3e4f5a6b,Elvis Presley Rockstar,MUSICA,38.99,2023-11-14
+rr8c9d1e2-6f7a-5b1c-2d3e-4f5a6b7c,Johnny Cash Country Singer,OTROS,31.99,2024-01-25
+ss9d1e2f3-7a8b-6c2d-3e4f-5a6b7c8d,Robotics AI Companion,OTROS,49.99,2024-02-18
+tt2f3a4b5-9c6d-8e3f-4a5b-6c7d8e,Thanos Infinity Gauntlet,MARVEL,49.99,2023-05-05
+uu3a4b5c6-1d2e-9f3a-4b5c-7d8e9f1a,Black Widow Natasha Romanoff,MARVEL,39.99,2023-06-18
+vv4b5c6d7-2e3f-1a4b-5c6d-8e9f1a2b,Spiderman Miles Morales,DISNEY,29.99,2024-01-01
+ww5c6d7e8-3f4a-2b5c-6d7e-9f1a2b3c,Moana and Pua Adventure,DISNEY,19.99,2024-02-14
+xx6d7e8f9-4a5b-3c6d-7e8f-1a2b3c4d,Akira Kaneda Motorcycle,ANIME,49.99,2023-09-30
+yy7e8f9a1-5b6c-4d7e-8f9a-2b3c4d5e,Sailor Moon Tuxedo Mask,ANIME,36.99,2023-11-25
+zz8f9a1b2-6c7d-5e8f-1a2b-4c5d6e,LeBron James Dunk Contest,DEPORTE,32.99,2023-12-18
+aaa9a1b2c3-7d8e-6f1a-2b3c-5d6e7f,Serena Williams Tennis Star,DEPORTE,39.99,2024-01-10
+bbb1b2c3d4-8e9f-7a1b-3c4d-6e7f8a9b,Elton John Concert Pianist,MUSICA,44.99,2024-02-02
+ccc2c3d4e5-9f1a-8b2c-4d5e-7f8a9b1c,David Bowie Rock Legend,MUSICA,34.99,2024-03-15
+ddd3d4e5f6-1a2b-9c3d-4e5f-7a8b1c2d,Robot Wars Battlebot,OTROS,27.99,2024-04-18
+eee4e5f6a7-2b3c-1d4e-5f6a-8b9c1d2e,Transforming Car Robot,OTROS,21.99,2024-05-21
+fff5f6a7b8-3c4d-2e5f-6a7b-9c1d2e3f,Avengers Endgame Poster,MARVEL,15.99,2023-07-10
+ggg6a7b8c9-4d5e-3f6a-7b8c-1d2e3f,Black Panther Wakanda Forever,MARVEL,37.99,2023-08-22
+hhh7b8c9d1-5e6f-4a7b-8c9d-2e3f4a,Spiderman Into the Spider-Verse,MARVEL,32.99,2023-09-15
+iii8c9d1e2-6f7a-5b8c-9d1e-3f4a5b,Snow White and the Seven Dwarfs,DISNEY,24.99,2024-06-30
+jjj9d1e2f3-7a8b-6c9d-1e2f-5a6b7c,The Little Mermaid Ariel and Flounder,DISNEY,29.99,2024-07-25
+kkk1e2f3a4-8b9c-7d1e-2f3a-6b7c8d,My Neighbor Totoro Catbus,ANIME,42.99,2023-02-28
+lll2f3a4b5-9c6d-8e2f-4a5b-7c8d9e,Dragon Ball Super Broly Figure,ANIME,49.99,2023-03-15
+mmm3a4b5c6-1d2e-9f4a-5b6c-8d9e1f,LeBron James Lakers Championship,DEPORTE,39.99,2023-04-29
+nnn4b5c6d7-2e3f-1a5b-6c7d-9e1f2a,Michael Jordan Last Shot,DEPORTE,44.99,2023-05-30
+ooo5c6d7e8-3f4a-2b6c-7d8e-1f2a3b,Usain Bolt World Record Sprinter, MUSICA,34.99,2023-06-25
+ppp6d7e8f9-4a5b-3c7d-8e9f-2a3b4c,Elvis Presley Jailhouse Rock, MUSICA,39.99,2023-07-18
+qqq7e8f9a1-5b6c-4d8e-9f1a-3b4c5d,Johnny Cash Folsom Prison Blues,OTROS,29.99,2024-08-10
+rrr8f9a1b2-6c7d-5e9f-1a2b-4c5d6e,Robot Dog Interactive Toy,OTROS,19.99,2024-09-20
+sss9a1b2c3-7d8e-6f2a-3b4c-5d6e7f,Transformer Soundwave Figure,MARVEL,29.99,2023-10-05

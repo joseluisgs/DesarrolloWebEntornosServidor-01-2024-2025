@@ -1,0 +1,54 @@
+# Servicios de almacenamiento de datos
+# Desarrollo
+services:
+  # PostgreSQL
+  postgres-db:
+    container_name: personas-db_postgres
+    image: postgres:12-alpine
+    restart: always
+    env_file: .env
+    environment:
+      POSTGRES_USER: ${DATABASE_USER}
+      POSTGRES_PASSWORD: ${DATABASE_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DATABASE}
+    ports:
+      - ${POSTGRES_PORT}:5432
+    volumes:
+      - ./database/init.sql:/docker-entrypoint-initdb.d/init.sql
+      - postgres-db-data:/var/lib/postgresql/data
+    networks:
+      - personas-network
+
+  # Adminer para conectarse a la base de datos
+  # Quitar en despliegue final
+  adminer-postgres-db:
+    container_name: personas-db_adminer-postgres-db
+    image: adminer
+    restart: always
+    env_file: .env
+    ports:
+      - 8080:8080
+    depends_on:
+      - postgres-db
+    networks:
+      - personas-network
+
+  # App de personas
+  personas-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: personas-app
+    env_file: .env
+    networks:
+      - personas-network
+    depends_on:
+      - postgres-db
+      - adminer-postgres-db
+
+networks:
+  personas-network:
+    driver: bridge
+
+volumes:
+  postgres-db-data:

@@ -1,0 +1,51 @@
+id,nombre,pais,altura,peso,puntos,mano,fecha_nacimiento
+51,Andreas Seppi,Italia,191,75,950,DIESTRO,1984-02-21
+52,John Millman,Australia,183,79,900,DIESTRO,1989-06-14
+53,Kevin Anderson,Suráfrica,203,93,850,DIESTRO,1986-05-18
+54,Albert Ramos,España,188,80,800,ZURDO,1988-01-17
+55,Aljaz Bedene,Eslovenia,183,75,750,DIESTRO,1989-07-18
+56,Joao Sousa,Portugal,183,74,700,DIESTRO,1989-03-30
+57,Lucas Pouille,Francia,185,81,650,DIESTRO,1994-02-23
+58,Juan Ignacio Londero,Argentina,180,72,600,DIESTRO,1993-08-15
+59,Thiago Monteiro,Brasil,183,78,550,ZURDO,1994-05-31
+60,Corentin Moutet,Francia,175,70,500,ZURDO,1999-04-19
+61,Emil Ruusuvuori,Finlandia,188,79,450,DIESTRO,1999-04-02
+62,Pedro Martinez,España,185,78,400,DIESTRO,1997-04-26
+63,Alexei Popyrin,Australia,196,78,350,DIESTRO,1999-08-05
+64,James Duckworth,Australia,183,82,300,DIESTRO,1992-01-21
+65,Marco Cecchinato,Italia,185,78,250,DIESTRO,1992-09-30
+66,Alex Bolt,Australia,183,80,200,ZURDO,1993-01-05
+67,Daniel Elahi Galan,Colombia,191,75,150,DIESTRO,1996-06-18
+68,Juan Pablo Varillas,Perú,185,78,100,DIESTRO,1995-10-06
+69,Roberto Carballes Baena,España,183,76,90,DIESTRO,1993-03-23
+70,Facundo Bagnis,Argentina,183,78,80,ZURDO,1990-02-27
+71,Salvatore Caruso,Italia,185,80,70,DIESTRO,1992-12-15
+72,Ricardas Berankis,Lituania,175,72,60,DIESTRO,1990-06-21
+73,Andrej Martin,Eslovaquia,183,78,50,DIESTRO,1989-09-20
+74,Jaume Munar,España,183,78,40,DIESTRO,1997-05-05
+75,Stefano Travaglia,Italia,185,80,30,DIESTRO,1991-12-28
+76,Hugo Dellien,Bolivia,180,77,20,DIESTRO,1993-06-16
+77,Marc Polmans,Australia,185,78,10,DIESTRO,1997-05-02
+78,Sumit Nagal,India,178,70,5,DIESTRO,1997-08-16
+79,Ernests Gulbis,Letonia,191,85,4,DIESTRO,1988-08-30
+80,Denis Kudla,Estados Unidos,180,77,3,DIESTRO,1992-08-17
+81,Paolo Lorenzi,Italia,183,75,2,DIESTRO,1981-12-15
+82,Thanasi Kokkinakis,Australia,196,82,1,DIESTRO,1996-04-10
+83,Michael Mmoh,Estados Unidos,188,82,0,DIESTRO,1998-01-10
+84,Tommy Paul,Estados Unidos,185,82,0,DIESTRO,1997-05-17
+85,Christopher O'Connell,Australia,183,78,0,DIESTRO,1994-06-03
+86,Yoshihito Nishioka,Japón,170,64,0,ZURDO,1995-09-27
+87,Francesco Passaro,Italia,185,75,0,DIESTRO,2001-01-07
+88,Marcelo Tomas Barrios Vera,Chile,185,75,0,DIESTRO,1997-12-10
+89,Nuno Borges,Portugal,185,75,0,DIESTRO,1997-02-19
+90,Holger Rune,Dinamarca,188,77,0,DIESTRO,2003-04-29
+91,Lorenzo Musetti,Italia,185,75,0,DIESTRO,2002-03-03
+92,Brandon Nakashima,Estados Unidos,185,78,0,DIESTRO,2001-08-03
+93,Jack Draper,Reino Unido,193,85,0,ZURDO,2001-12-22
+94,Jiri Lehecka,República Checa,185,77,0,DIESTRO,2001-11-08
+95,Emilio Nava,Estados Unidos,185,78,0,DIESTRO,2001-12-02
+96,Juan Manuel Cerundolo,Argentina,185,75,0,ZURDO,2001-11-15
+97,Sebastian Korda,Estados Unidos,196,82,0,DIESTRO,2000-07-05
+98,Brandon Holt,Estados Unidos,185,75,0,DIESTRO,1998-04-06
+99,Maxime Cressy,Estados Unidos,198,88,0,DIESTRO,1997-05-08
+100,Zizou Bergs,Bélgica,185,75,0,DIESTRO,1999-06-03

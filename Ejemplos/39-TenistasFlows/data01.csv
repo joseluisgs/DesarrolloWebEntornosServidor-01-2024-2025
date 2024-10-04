@@ -1,0 +1,51 @@
+id,nombre,pais,altura,peso,puntos,mano,fecha_nacimiento
+1,Novak Djokovic,Serbia,188,77,12030,DIESTRO,1987-05-22
+2,Daniil Medvedev,Rusia,198,83,10370,DIESTRO,1996-02-11
+3,Rafael Nadal,España,185,85,8270,ZURDO,1986-06-03
+4,Dominic Thiem,Austria,185,79,7425,DIESTRO,1993-09-03
+5,Stefanos Tsitsipas,Grecia,193,89,6595,DIESTRO,1998-08-12
+6,Alexander Zverev,Alemania,198,90,6125,DIESTRO,1997-04-20
+7,Andrey Rublev,Rusia,188,75,6000,DIESTRO,1997-10-20
+8,Roger Federer,Suiza,185,85,5875,DIESTRO,1981-08-08
+9,Matteo Berrettini,Italia,196,95,5058,DIESTRO,1996-04-12
+10,Diego Schwartzman,Argentina,170,64,3665,DIESTRO,1992-08-16
+11,Roberto Bautista Agut,España,183,75,3330,DIESTRO,1988-04-14
+12,Denis Shapovalov,Canadá,185,75,3310,ZURDO,1999-04-15
+13,Pablo Carreño Busta,España,188,78,3205,DIESTRO,1991-07-12
+14,Milos Raonic,Canadá,196,98,3070,DIESTRO,1990-12-27
+15,David Goffin,Bélgica,180,68,2950,DIESTRO,1990-12-07
+16,Grigor Dimitrov,Bulgaria,191,81,2850,DIESTRO,1991-05-16
+17,Stan Wawrinka,Suiza,183,81,2750,DIESTRO,1985-03-28
+18,Félix Auger-Aliassime,Canadá,193,88,2650,DIESTRO,2000-08-08
+19,Alex de Minaur,Australia,183,69,2585,DIESTRO,1999-02-17
+20,Gael Monfils,Francia,193,85,2540,DIESTRO,1986-09-01
+21,Hubert Hurkacz,Polonia,196,81,2480,DIESTRO,1997-02-11
+22,Daniel Evans,Reino Unido,175,75,2405,DIESTRO,1990-05-23
+23,Aslan Karatsev,Rusia,185,85,2350,DIESTRO,1993-09-04
+24,Jannik Sinner,Italia,188,76,2300,DIESTRO,2001-08-16
+25,Fabio Fognini,Italia,178,74,2250,DIESTRO,1987-05-24
+26,Carlos Alcaraz,España,185,72,5680,DIESTRO,2003-05-05
+27,John Isner,Estados Unidos,208,108,2150,DIESTRO,1985-04-26
+28,Reilly Opelka,Estados Unidos,211,102,2100,DIESTRO,1997-08-28
+29,Kei Nishikori,Japón,178,75,2050,DIESTRO,1989-12-29
+30,Marin Cilic,Croacia,198,89,2000,DIESTRO,1988-09-28
+31,Albert Ramos Viñolas,España,188,80,1950,ZURDO,1988-01-17
+32,Adrian Mannarino,Francia,180,79,1900,ZURDO,1988-06-29
+33,Nikoloz Basilashvili,Georgia,185,79,1850,DIESTRO,1992-02-23
+34,Filip Krajinovic,Serbia,185,75,1800,DIESTRO,1992-02-27
+35,Lorenzo Sonego,Italia,191,76,1750,DIESTRO,1995-05-11
+36,Jan-Lennard Struff,Alemania,193,92,1700,DIESTRO,1990-04-25
+37,Marton Fucsovics,Hungría,188,82,1650,DIESTRO,1992-02-08
+38,Alexander Bublik,Kazajistán,196,82,1600,DIESTRO,1997-06-17
+39,Laslo Djere,Serbia,188,82,1550,DIESTRO,1995-06-02
+40,Jordan Thompson,Australia,183,82,1500,DIESTRO,1994-04-20
+41,Benoit Paire,Francia,196,81,1450,DIESTRO,1989-05-08
+42,Frances Tiafoe,Estados Unidos,188,75,1400,DIESTRO,1998-01-20
+43,Richard Gasquet,Francia,183,75,1350,DIESTRO,1986-06-18
+44,Taylor Fritz,Estados Unidos,193,86,1300,DIESTRO,1997-10-28
+45,Jo-Wilfried Tsonga,Francia,188,91,1250,DIESTRO,1985-04-17
+46,Fernando Verdasco,España,188,88,1200,ZURDO,1983-11-15
+47,Sam Querrey,Estados Unidos,198,95,1150,DIESTRO,1987-10-07
+48,Jeremy Chardy,Francia,188,75,1100,DIESTRO,1987-02-12
+49,Steve Johnson,Estados Unidos,188,86,1050,DIESTRO,1989-12-24
+50,Guido Pella,Argentina,183,83,1000,ZURDO,1990-05-17
